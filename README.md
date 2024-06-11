@@ -1,2 +1,2 @@
 # PCD_teste
-descriçãosucinta
+calculates different 
